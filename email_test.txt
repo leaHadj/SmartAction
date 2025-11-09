@@ -1,0 +1,19 @@
+Subject: Follow-up on the SmartAction Project Meeting
+
+Hi everyone,
+
+I wanted to summarize the key points from this morning’s meeting about the SmartAction project:
+
+Samy presented the first version of the email summarization module using Hugging Face’s pre-trained models. The results are promising, but the model still needs improvements for long texts.
+
+Jason reported that the current backend API doesn’t yet support asynchronous requests. An update is planned for Monday to integrate FastAPI and improve processing performance.
+
+Briac shared the Streamlit prototype for the user interface, which will allow users to upload an email file and view the generated summary in real time.
+
+Lyes ran some tests on Azure, and it seems the model requires a GPU for optimal performance. We’ll estimate the deployment cost before the end of the week.
+
+The next follow-up meeting will take place next Friday at 10 a.m. Please update your Trello tasks and share any technical issues on Slack (#smartaction-tech).
+
+Thanks,
+Julian Fuchs
+Project Manager – SmartAction
