@@ -38,7 +38,7 @@ Its main goal is to save time and improve productivity when reading lengthy mess
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/<your-username>/SmartAction.git
+git clone https://github.com/<leaHadj>/SmartAction.git
 cd SmartAction
 
 # Create and activate a virtual environment
@@ -51,3 +51,6 @@ source venv/bin/activate
 # Install dependencies and launch the app
 pip install -r requirements.txt
 streamlit run app.py
+=======
+# SmartAction
+AI-powered app that summarizes emails using NLP and Hugging Face.
